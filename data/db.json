@@ -1,0 +1,75 @@
+{
+  "blogs": [
+    {
+      "title": "Developing Website",
+      "highlight": "To createa a website, first you need to identify....",
+      "body": "To createa a website, first you need to identify, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non blanditiis accusamus eligendi consequuntur assumenda expedita iste repudiandae perspiciatis recusandae nostrum temporibus, delectus fuga earum rerum ipsa similique nobis! Beatae, et. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, fugiat tenetur eos magni assumenda nesciunt aspernatur! Assumenda at, libero porro corrupti itaque consequuntur dolorem soluta dolore ab optio nisi culpa.Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus similique ullam neque expedita debitis itaque! Animi incidunt corporis, ea minima, commodi illo recusandae ipsum accusamus veritatis excepturi natus maiores quidem?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis alias, illo blanditiis, inventore nihil laudantium ratione dolorem ipsa libero quos excepturi molestias quia veritatis distinctio sapiente dolor nesciunt repellendus pariatur.",
+      "author": "John Doe",
+      "id": "1",
+      "date": "2022-01-23"
+    },
+    {
+      "title": "Cloud Computing ",
+      "highlight": "Cloud compiting is a technology used to implement web applications using ...",
+      "body": "Cloud compiting is a technology used to implement web applications using Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non blanditiis accusamus eligendi consequuntur assumenda expedita iste repudiandae perspiciatis recusandae nostrum temporibus, delectus fuga earum rerum ipsa similique nobis! Beatae, et. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, fugiat tenetur eos magni assumenda nesciunt aspernatur! Assumenda at, libero porro corrupti itaque consequuntur dolorem soluta dolore ab optio nisi culpa.",
+      "author": "Aws Amazon",
+      "id": "2",
+      "date": "2019-03-12"
+    },
+    {
+      "title": "React Library ",
+      "highlight": "React is modern front end technology for designing a compiting is a technology used to implement web applications using ...Lorem",
+      "body": "React is modern front end technology for designing a compiting is a technology used to implement web applications using Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non blanditiis accusamus eligendi consequuntur assumenda expedita iste repudiandae perspiciatis recusandae nostrum temporibus, delectus fuga earum rerum ipsa similique nobis! Beatae, et. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, fugiat tenetur eos magni assumenda nesciunt aspernatur! Assumenda at, libero porro corrupti itaque consequuntur dolorem soluta dolore ab optio nisi culpa.Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus similique ullam neque expedita debitis itaque! Animi incidunt corporis, ea minima, commodi illo recusandae ipsum accusamus veritatis excepturi natus maiores quidem?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis alias, illo blanditiis, inventore nihil laudantium ratione dolorem ipsa libero quos excepturi molestias quia veritatis distinctio sapiente dolor nesciunt repellendus pariatur.",
+      "author": "Mark zeckerberg",
+      "id": "3",
+      "date": "2014-09-02"
+    },
+    {
+      "id": "9ee7",
+      "title": "The new world",
+      "highlight": "some overview about the contemporary world",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus repellat incidunt aut enim provident ipsam voluptatem quaerat in magnam nesciunt officiis, est commodi debitis consectetur nisi. Totam ab tempora vitae!",
+      "author": "John"
+    },
+    {
+      "id": "7540",
+      "title": "Ping pong",
+      "date": "2024-10-08",
+      "highlight": "memories of playing ping pong",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus repellat incidunt aut enim provident ipsam voluptatem quaerat in magnam nesciunt officiis, est commodi debitis consectetur nisi. Totam ab tempora vitae!",
+      "author": "Tabor Wami"
+    },
+    {
+      "id": "9563",
+      "title": "Kenna's tale",
+      "date": "2024-10-08",
+      "highlight": "the astonishing tales from the young kenna about her encounter",
+      "body": "blalgakghkgh",
+      "author": "Kenenisa Bekele"
+    },
+    {
+      "id": "782c",
+      "title": "Kenna's tale",
+      "date": "2024-10-08",
+      "highlight": "the astonishing tales from the young kenna about her encounter",
+      "body": "blalgakghkgh",
+      "author": "Kenenisa Bekele"
+    },
+    {
+      "id": "4f96",
+      "title": "Kenna's tale",
+      "date": "2024-10-08",
+      "highlight": "the astonishing tales from the young kenna about her encounter",
+      "body": "blalgakghkgh",
+      "author": "Kenenisa Bekele"
+    },
+    {
+      "id": "410c",
+      "title": "loala",
+      "date": "2024-10-16",
+      "highlight": "lola",
+      "body": "bolla",
+      "author": "Tabor Wami"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+/*base styles */
+* {
+  margin: 0;
+  box-sizing: border-box;
+  color: #333;
+  font-family: "Quicksand";
+}
+.navbar {
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  border-bottom: 2px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #2279dd;
+}
+.navlinks {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 1rem;
+  text-decoration: none;
+  padding: 0.4rem;
+}
+.navbar a:hover {
+  color: #dd22a5;
+}
+.content {
+  background-color: #e6eaeb;
+  margin: 1rem auto;
+  padding: 1.6rem;
+}
+/* blog preview/list styles */
+.blog-list {
+  padding: 1rem 4rem;
+}
+
+.blog-preview {
+  padding: 0.6rem 1rem;
+  margin: 1rem 0;
+  border-bottom: 3px solid #fafafa;
+}
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+.blog-preview h3 {
+  font-size: 1rem;
+  color: #2279dd;
+  margin-bottom: 0.5rem;
+}
+.blog-preview a {
+  text-decoration: none;
+  font-weight: 600;
+  font-style: italic;
+  color: #dd22a5;
+}
+/*blog- details*/
+.blog-details h2 {
+  font-size: 1.4rem;
+  color: #2279dd;
+  margin-bottom: 0.8rem;
+}
+
+.blog-details article {
+  margin: 1rem auto;
+  padding: 2rem;
+  text-align: justify;
+}
+.blog-details div {
+  margin: 1.6rem 0;
+}
+.blog-details button {
+  background: #2279dd;
+  color: #fff;
+  border: 0;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+/*Login Form*/
+.login {
+  width: 25rem;
+  padding: 2rem;
+  border: 1px solid #6d8588;
+  border-radius: 6px;
+  background-color: #dae7f5;
+  margin: 3rem auto;
+  align-self: center;
+}
+Form label,
+Form input,
+Form button {
+  display: block;
+  padding: 0.3rem;
+}
+Form label,
+Form input {
+  width: 100%;
+}
+Form button {
+  margin: 1rem auto;
+  padding: 0.2rem 1rem;
+  font-size: 1.2rem;
+  border: 0;
+  border-radius: 0.3rem;
+  color: #fff;
+  background: #2279dd;
+}
+/*Registration*/
+.register {
+  width: 70%;
+  margin: 2rem auto;
+}
+
+/*Create new blog form*/
+.create-blog {
+  width: 70%;
+  margin: 2rem auto;
+  text-align: center;
+}
+.create-blog label {
+  text-align: left;
+  display: block;
+}
+.create-blog h2 {
+  font-size: 1.4rem;
+  color: #2279dd;
+  margin-bottom: 2rem;
+}
+.create-blog input,
+.create-blog textarea,
+.create-blog select {
+  width: 100%;
+  padding: 0.4rem 0.7rem;
+  margin: 0.2rem 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: block;
+}
+
+/* display blog*/
+.blog-display {
+  text-align: left;
+}
